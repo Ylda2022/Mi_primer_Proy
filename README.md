@@ -1,2 +1,3 @@
 # Mi_primer_Proy
-Serira para pruebas DEvOps
+Servira para pruebas DEvOps
+Para aprender a utilizar GitHub y usar el modo de trabajo de DEvOps
